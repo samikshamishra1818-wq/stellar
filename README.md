@@ -1,7 +1,7 @@
 
 ## **Project Title**
 
-**Fractional Ownership of High-Value Cars**
+# **Fractional Ownership of High-Value Cars**
 
 ---
 
@@ -107,3 +107,4 @@ Future enhancements may include:
 * Legal documentation anchoring real-world ownership to token holders
 * Compliance modules (KYC/AML) for regulated jurisdictions
 * Insurance registry integration
+
